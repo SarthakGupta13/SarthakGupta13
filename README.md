@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email-guptasarthak.81pari@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...i like playing ar games
+- ⚡ Fun fact: ...i like playing VR games
 
 <!---
 SarthakGupta13/SarthakGupta13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
